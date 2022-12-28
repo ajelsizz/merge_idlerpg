@@ -1,7 +1,7 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="BgScrollLayer" preserve="all" />
     <type fullname="NormalEnemyUnit" preserve="all" />
+    <type fullname="ParallaxLayer" preserve="all" />
     <type fullname="Spine.Unity.AtlasAsset" preserve="all" />
     <type fullname="Spine.Unity.SkeletonAnimation" preserve="all" />
     <type fullname="Spine.Unity.SkeletonDataAsset" preserve="all" />
