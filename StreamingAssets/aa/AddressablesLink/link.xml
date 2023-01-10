@@ -1,5 +1,6 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="BossEnemyUnit" preserve="all" />
     <type fullname="NormalEnemyUnit" preserve="all" />
     <type fullname="ParallaxLayer" preserve="all" />
     <type fullname="Spine.Unity.AtlasAsset" preserve="all" />
@@ -32,5 +33,6 @@
   </assembly>
   <assembly fullname="UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.BoxCollider2D" preserve="all" />
+    <type fullname="UnityEngine.Rigidbody2D" preserve="all" />
   </assembly>
 </linker>
